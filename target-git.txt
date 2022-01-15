@@ -2,3 +2,4 @@ rencana pengembangan git:
 1. share trik tips web programing
 2. share trik programing
 3. membuat buku
+  ^ php dasar 
